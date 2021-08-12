@@ -1,0 +1,22 @@
+Locales['en'] = {
+  ['team_system']		= 'Team System',
+  ['add_member']		= 'Add Member',
+  ['manage_team']		= 'Manage Team',
+  ['remove_member']		= 'Remove Member',
+  ['leave_team']		= 'Leave Team',
+  ['create_team']		= 'Create Team',
+  ['delete_team']		= 'Delete Team',
+  ['exists']			= 'Already a Member',
+  ['nonclose']			= 'Non Player is close to you',
+  ['not_leader']		= 'You are not the Team Leader.',
+  ['ownteam']			= 'You already own a Team.',
+  ['invalid']			= 'Invalid Team Name.',
+  ['created_team']		= 'You have created a team under the name ~COLOR_PURPLE~%s',
+  ['team_deletion']		= 'Team deletion ~COLOR_GREEN~Completed',
+  ['member_join']		= '~COLOR_PURPLE~%s~COLOR_WHITE~ joined the Team.',
+  ['member_removed']	= 'Member %s ~COLOR_RED~Removed~COLOR_WHITE~',
+  ['invite_req']		= '%s has invited you to join %s',
+  ['removed_by']		= 'You got ~COLOR_RED~removed~COLOR_WHITE~ from the Team by ~COLOR_PURPLE~%s',
+  ['left_team']			= 'You ~COLOR_RED~left~COLOR_WHITE~ the Team.',
+  ['current_team']		= 'You current Team is ~COLOR_PURPLE~%s'
+}

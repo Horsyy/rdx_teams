@@ -1,6 +1,6 @@
 ## RDX Teams
 
-A Team System that allows you to Create a Team, Add members, Manage mambers.. even Delete the Team. By creating a team you cannot get hits by your teammates but you can get shot and you can ride the same horses or vehicles.
+A Team System that allows you to ```Create a Team```, ```Add members```, ```Manage mambers```.. even ```Delete the Team```. By creating a team you cannot get hits by your teammates but you can get shot and you can ride the same horses or vehicles.
 
 ## Features
 
@@ -19,8 +19,8 @@ Coming Soon
 
 ## How To Install
 
-1. Put rdx_teams into server-data/resources/
-2. Open server.cfg and add after the redm_extended resources: ensure rdx_teams
+1. Put ```rdx_teams``` into server-data/resources/
+2. Open ```server.cfg``` and add after the redm_extended resources: ```ensure rdx_teams```
 3. Add LRP_Notify to your resources too: ensure LRP_Notify
 
 ## Contributions
